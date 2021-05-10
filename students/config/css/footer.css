@@ -1,0 +1,16 @@
+
+.site-footer {
+    padding: 4em 0;
+    background: #333333;
+    color: #fff;
+}
+.site-footer p {
+    color: #f7f7f7; 
+    padding: 6px 12px;
+}
+.site-footer h2 {   
+    padding: 6px 12px;
+    color: #fff;
+    font-family: Raleway-SemiBold, sans-serif;
+    text-transform: uppercase;
+}
